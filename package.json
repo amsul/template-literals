@@ -1,0 +1,9 @@
+{
+  "name": "template-literals",
+  "version": "1.0.0",
+  "description": "String templates using tagged template literals",
+  "main": "index.js",
+  "repository": "https://github.com/amsul/template-literals",
+  "author": "Amsul <reach@amsul.ca>",
+  "license": "MIT"
+}
